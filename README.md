@@ -104,7 +104,6 @@ How to see the photos
 Open Telegram on your phone or computer
 Go to your bot chat
 Photos will appear there one by one with their filenames
+## Creator
 
-
-
-
+Made by **JebinTech**.
