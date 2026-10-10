@@ -1,17 +1,26 @@
-# Cyber_Music__
+# Cyber Music
 
-An Android music-player project repository.
+An Android music-player application project focused on mobile audio playback and application development.
 
 ## Overview
 
-This repository contains an Android application project under the Cyber_Music__ name. The current repository contents include Android project material and source files.
+Cyber Music is an Android project maintained as part of an exploration of mobile application development. This repository contains project source material for the application.
 
-This README intentionally provides only high-level project information. It does not document or provide instructions for collecting, transmitting, or accessing user data.
+## Project Scope
 
-## Scope
+- Android application development
+- Music-player interface and playback concepts
+- Mobile user experience experimentation
+- Ongoing code and interface refinement
 
-The repository is documented as an Android project and should be reviewed and used only in ways that respect user privacy, consent, and applicable laws.
+## Privacy and Responsible Use
 
-## Creator
+Use and modify the project in ways that respect user privacy, informed consent, and applicable laws. This documentation intentionally stays at a high level and does not describe collection or transmission of personal files.
 
-Made by **JebinTech**.
+## Getting Started
+
+Review the Android project structure and its build configuration in the repository before opening it in your preferred Android development environment. Build and run it only after reviewing the permissions and behavior of the source code.
+
+## Maintainer
+
+**JebinTech**
